@@ -107,13 +107,5 @@ def main():
     target = create_typoglycemia(sentence)
     print(target)
 
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     main()
